@@ -4,7 +4,7 @@ import Header from './components/Header';
 
 const App = () => (
   <div className="App">
-      <h1>Hello Léo Serrão</h1>
+      <Header />
   </div>
 );
 
