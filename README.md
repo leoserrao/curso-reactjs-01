@@ -14,3 +14,4 @@ Baseado no curso ([ReactJS](https://app.rocketseat.com.br/node/curso-react-js "R
 - Create React App;
 - CSS3;
 - HTML5;
+![Tela do projeto](https://i.imgur.com/RhpDANw.png "Tela do projeto")
